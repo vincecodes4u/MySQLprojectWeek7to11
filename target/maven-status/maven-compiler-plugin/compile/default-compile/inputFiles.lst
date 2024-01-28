@@ -1,0 +1,10 @@
+/Users/vincevillafan/eclipse-workspace/mysqljava/src/main/java/projects/ProjectsApp.java
+/Users/vincevillafan/eclipse-workspace/mysqljava/src/main/java/projects/dao/DbConnection.java
+/Users/vincevillafan/eclipse-workspace/mysqljava/src/main/java/projects/dao/ProjectDao.java
+/Users/vincevillafan/eclipse-workspace/mysqljava/src/main/java/projects/entity/Category.java
+/Users/vincevillafan/eclipse-workspace/mysqljava/src/main/java/projects/entity/Material.java
+/Users/vincevillafan/eclipse-workspace/mysqljava/src/main/java/projects/entity/Project.java
+/Users/vincevillafan/eclipse-workspace/mysqljava/src/main/java/projects/entity/Step.java
+/Users/vincevillafan/eclipse-workspace/mysqljava/src/main/java/projects/exception/DbException.java
+/Users/vincevillafan/eclipse-workspace/mysqljava/src/main/java/projects/service/ProjectService.java
+/Users/vincevillafan/eclipse-workspace/mysqljava/src/main/java/provided/util/DaoBase.java
